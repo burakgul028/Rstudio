@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1605200360503.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2779672372",
+    "id" : "C25C4066",
+    "lastKnownWriteTime" : 1605208569,
+    "last_content_update" : 1605208569981,
+    "path" : "~/week6datascience/week6datascience.Rproj",
+    "project_path" : "week6datascience.Rproj",
+    "properties" : {
+        "cursorPosition" : "131,0",
+        "scrollLine" : "88",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
